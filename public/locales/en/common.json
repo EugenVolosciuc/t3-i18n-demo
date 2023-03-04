@@ -1,0 +1,6 @@
+{
+    "hello-frontend": "Hello from the frontend",
+    "switch-language": "Switch language",
+    "get-message": "Fetch message in English from the backend",
+    "message-success": "The API request was a success, the translation is coming from the backend!"
+}

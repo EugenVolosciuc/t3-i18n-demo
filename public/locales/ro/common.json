@@ -1,0 +1,6 @@
+{
+    "hello-frontend": "Salutare din frontend",
+    "switch-language": "Schimba limba",
+    "get-message": "Primeste mesajul din backend in romana",
+    "message-success": "Request-ul catre API a fost trimis cu succes, traducerea vine din backend!"
+}
